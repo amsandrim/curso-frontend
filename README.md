@@ -33,7 +33,7 @@ grow, mark and tweak your common history
    merge     Join two or more development histories together
    rebase    Reapply commits on top of another base tip
    reset     Reset current HEAD to the specified state
-   switch    Switch branches
+    switch    Switch branches
    tag       Create, list, delete or verify a tag object signed with GPG
 
 collaborate (see also: git help workflows)
@@ -45,3 +45,5 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+
+linha add2
